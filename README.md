@@ -30,6 +30,7 @@ Download caffe library from two repositories of Faster RCNN and Fully Convolutio
 - https://github.com/shelhamer/fcn.berkeleyvision.org.`
 
 Following the instruction from the main site of caffe: http://caffe.berkeleyvision.org/installation.html.
+
 **Notice**: If you use build caffe with CUDA and CUDNN enabled, you should use CUDNN version 4.0.
 
 #### Run our code
