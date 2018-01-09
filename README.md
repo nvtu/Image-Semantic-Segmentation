@@ -12,7 +12,8 @@ correct class segmentation, especially on overlapping objects in an image.
   - Propose solution to color overlapping regions of objects in image.
 
 ## Comparison between our proposed method and outputs of Fully Convolutional Networks.
-![Comparison][https://github.com/nvtu/Image-Semantic-Segmentation/blob/master/result.jpeg]
+![Comparison]
+(https://github.com/nvtu/Image-Semantic-Segmentation/blob/master/result.jpeg)
 - The first row in the image is the original image used as input in our segmentation system. 
 - The second row is the output of semantic segmentation using fully convolutional networks. 
 - The third row is the output of our proposed system combining the strength of both Faster RCNN and Fully Convolutional Networks with our proposed region coloring method for segmentation system. 
